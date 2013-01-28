@@ -2,3 +2,4 @@
 for this i ran the command: sudo apt-get -f install
 in order to fix all the dependency problem.
 after this i was able to continue with all the steps given in the manual.
+PS: this problem occured to me when i was using a USB stick instaed of sdcard
