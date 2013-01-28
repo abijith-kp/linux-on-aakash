@@ -1,0 +1,4 @@
+> after the initail update, i couldn't install any other packages to the chrooted environment. 
+for this i ran the command: sudo apt-get -f install
+in order to fix all the dependency problem.
+after this i was able to continue with all the steps given in the manual.
